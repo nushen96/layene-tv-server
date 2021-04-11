@@ -1,0 +1,247 @@
+{
+  "status": 200,
+  "status_wording": "success",
+  "direct": {
+    "source": {
+      "id": 1,
+      "name": "Layene Tv"
+    },
+    "url": "http://senrtmp.dyndns.tv:1936/hls/layenetv.m3u8",
+    "urlToImage": "assets/foreground_direct.png"
+  },
+  "playlist": [
+    {
+      "source": {
+        "id": 1,
+        "name": "Layene Tv"
+      },
+      "author": "Layene Tv",
+      "title": "A la une",
+      "url": "https://www.youtube.com/playlist?list=PLnvXYJtgXuFeCgvExftxjjjxCzuh3iSv7",
+      "urlToImage": "https://i.ytimg.com/vi/-vEzEunsl7A/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAqpGPDELZYyYfAtszuOdSkHWN47g",
+      "publishedAt": "2021-04-03T20:00:44Z",
+      "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Wan… [+5511 chars]"
+    },
+    {
+      "source": {
+        "id": 2,
+        "name": "Layene Tv"
+      },
+      "author": "Layene Tv",
+      "title": "Appels",
+      "url": "https://www.youtube.com/playlist?list=PLnvXYJtgXuFeqTpjF1caHBHn5WvuhJFtj",
+      "urlToImage": "https://i.ytimg.com/vi/oKcI8C2brqY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTUy6kwIMkhic4MmH4ndm7EWIQ2w",
+      "publishedAt": "2021-04-03T20:00:44Z",
+      "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Wan… [+5511 chars]"
+    },
+    {
+      "source": {
+        "id": 3,
+        "name": "Layene Tv"
+      },
+      "author": "Layene Tv",
+      "title": "Jambarou Diine Dji",
+      "url": "https://www.youtube.com/playlist?list=PLnvXYJtgXuFdv-7NzsiB7uJKrTHG7GgJ-",
+      "urlToImage": "https://i.ytimg.com/vi/pBbKMY7-bR4/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsgRlMjMBbdBih43hxgyKev4hDOg",
+      "publishedAt": "2021-04-03T20:00:44Z",
+      "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Wan… [+5511 chars]"
+    },
+    {
+      "source": {
+        "id": 4,
+        "name": "Layene Tv"
+      },
+      "author": "Layene Tv",
+      "title": "Jummah",
+      "url": "https://www.youtube.com/playlist?list=PLnvXYJtgXuFc7gYk1hpRVA8atCXEQEKBq",
+      "urlToImage": "https://i.ytimg.com/vi/wPOWx9o9gpU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDUmKFd0MpSWAtO4oElQBbs3hVvbQ",
+      "publishedAt": "2021-04-03T20:00:44Z",
+      "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Wan… [+5511 chars]"
+    },
+    {
+      "source": {
+        "id": 5,
+        "name": "Layene Tv"
+      },
+      "author": "Layene Tv",
+      "title": "Tafsir Quran",
+      "url": "https://www.youtube.com/playlist?list=PLnvXYJtgXuFfeocNiSeQ0b-_RhOFfCkt7",
+      "urlToImage": "https://i.ytimg.com/vi/APG1BPhoiJA/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB5LiwLyARWQ4XRRin3Df7Xd6ndXA",
+      "publishedAt": "2021-04-03T20:00:44Z",
+      "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Wan… [+5511 chars]"
+    },
+    {
+      "source": {
+        "id": 6,
+        "name": "Layene Tv"
+      },
+      "author": "Layene Tv",
+      "title": "Nianes",
+      "url": "https://www.youtube.com/playlist?list=PLnvXYJtgXuFfwSjLKo1XhCkB5n-YRXxlT",
+      "urlToImage": "https://i.ytimg.com/vi/ZijtgclVa3k/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBj1AQylnjyBmakXe5n3oKzz6wmxw",
+      "publishedAt": "2021-04-03T20:00:44Z",
+      "content": "Welcome back to The TechCrunch Exchange, a weekly startups-and-markets newsletter. Its broadly based on the daily column that appears on Extra Crunch, but free, and made for your weekend reading. Wan… [+5511 chars]"
+    }
+  ],
+  "sermons": {
+      "source": {
+        "id": 1,
+        "name": "Layene Tv"
+      },
+      "from": "Seydinna Limamou LAHI (PSL)",
+      "title": "Extrait Sermons Seydinna Limamou LAHI (PSL)",
+      "description": "Extrait Sermons",
+      "url": "http://www.layene.sn/accueil-2/sermons-de-seydina-limamou-lahi-psl/",
+      "urlToImage": "http://www.layene.sn/wp-content/uploads/2017/04/sermon1-SLLPSL.mp3?_=1",
+      "publishedAt": "2019-05-12T01:57:37Z",
+      "content": "Etre disponible vis-à-vis de tous les musulmans, c’est les aimer tous, car comme l’a dit l’Envoyé de Dieu (que Dieu répande sur lui sa bénédiction et la Paix) :  » le Croyant doit aimer tous les Croyants et ne doit en haïr aucun » et comme il l’a encore dit :  » le vrai Croyant doit vouloir pour son frère Croyant, ce qu’il veut pour lui-même ». L’Envoyé de Dieu (que Dieu répande sur lui sa bénédiction et la Paix) a dit :  » ne vous haïssez pas les uns les autres, déconseillez le Mal, tissez entre vous de bonnes relations »."
+  },
+  "programme": {
+    "data" : {
+      "Lundi" : {
+        "5:00 PM" : "",
+        "6:00 PM" : "Kick Back with Classical",
+        "7:00 PM" : "Meet the Fam",
+        "8:00 PM" : "Too Shady",
+        "9:00 PM" : "Twin Sandwich",
+        "10:00 PM" : "Shut Up And Listen",
+        "11:00 PM" : "Mystery Bruises",
+        "12:00 PM" : "Truffle Butter Shuffle"
+      },
+      "Mardi" : {
+        "5:00 PM" : "Lost and Found",
+        "6:00 PM" : "Evil Free Radio",
+        "7:00 PM" : "Evil Free Radio",
+        "8:00 PM" : "Something go wrong? Don't Panic!",
+        "9:00 PM" : "Word of Mouth",
+        "10:00 PM" : "Radio Boy",
+        "11:00 PM" : "Trainwreck*",
+        "12:00 PM" : "Late Night w/ Dee & Jay"
+      },
+      "Mercredi" : {
+        "5:00 PM" : "Barriers to Entry",
+        "6:00 PM" : "Let a Thirsty Girl Know",
+        "7:00 PM" : "Live From The Pit",
+        "8:00 PM" : "Weekly Die Update",
+        "9:00 PM" : "Super Groovy Icey Chill",
+        "10:00 PM" : "Broadway Bitch",
+        "11:00 PM" : "",
+        "12:00 PM" : "Sports Center Lite"
+      },
+      "Jeudi" : {
+        "5:00 PM" : "Constructive Interference",
+        "6:00 PM" : "The Holy TriniTease",
+        "7:00 PM" : "Exit 182",
+        "8:00 PM" : "Restaurant Ambience w/ DJ Lampshade",
+        "9:00 PM" : "No Scene",
+        "10:00 PM" : "",
+        "11:00 PM" : "Black Kids do Radio Too",
+        "12:00 PM" : "Max and Joe's Organ Emporium and Warehouse"
+      },
+      "Vendredi" : {
+        "5:00 PM" : "Daebak! KGY Cultural Hour",
+        "6:00 PM" : "Thraxface",
+        "7:00 PM" : "The Variety Hour Club",
+        "8:00 PM" : "Calle Ocho",
+        "9:00 PM" : "Ferris Bueller's Night Off",
+        "10:00 PM" : "Notorious DLG",
+        "11:00 PM" : "Hanging with the Changs",
+        "12:00 PM" : ""
+      },
+      "Samedi" : {
+        "5:00 PM" : "At Least We Think We're Funny",
+        "6:00 PM" : "",
+        "7:00 PM" : "KFIC",
+        "8:00 PM" : "",
+        "9:00 PM" : "The Bullpen",
+        "10:00 PM" : "The Etymology of Music",
+        "11:00 PM" : "Library Jams",
+        "12:00 PM" : ""
+      },
+      "Dimanche" : {
+        "5:00 PM" : "",
+        "6:00 PM" : "",
+        "7:00 PM" : "Between a Rachmaninoff and a Hard Place",
+        "8:00 PM" : "Tete-a-tech",
+        "9:00 PM" : "Various Noises",
+        "10:00 PM" : "All-You-Can-Eat-Shrimp Buffet!",
+        "11:00 PM" : "The Mom Cave Show",
+        "12:00 PM" : "Snarky Walrus Time"
+      }
+    }
+  },
+  "rediffusion": {
+    "data" : {
+      "Lundi" : {
+        "5:00 PM" : "",
+        "6:00 PM" : "Kick Back with Classical",
+        "7:00 PM" : "Meet the Fam",
+        "8:00 PM" : "Too Shady",
+        "9:00 PM" : "Twin Sandwich",
+        "10:00 PM" : "Shut Up And Listen",
+        "11:00 PM" : "Mystery Bruises",
+        "12:00 PM" : "Truffle Butter Shuffle"
+      },
+      "Mardi" : {
+        "5:00 PM" : "Lost and Found",
+        "6:00 PM" : "Evil Free Radio",
+        "7:00 PM" : "Evil Free Radio",
+        "8:00 PM" : "Something go wrong? Don't Panic!",
+        "9:00 PM" : "Word of Mouth",
+        "10:00 PM" : "Radio Boy",
+        "11:00 PM" : "Trainwreck*",
+        "12:00 PM" : "Late Night w/ Dee & Jay"
+      },
+      "Mercredi" : {
+        "5:00 PM" : "Barriers to Entry",
+        "6:00 PM" : "Let a Thirsty Girl Know",
+        "7:00 PM" : "Live From The Pit",
+        "8:00 PM" : "Weekly Die Update",
+        "9:00 PM" : "Super Groovy Icey Chill",
+        "10:00 PM" : "Broadway Bitch",
+        "11:00 PM" : "",
+        "12:00 PM" : "Sports Center Lite"
+      },
+      "Jeudi" : {
+        "5:00 PM" : "Constructive Interference",
+        "6:00 PM" : "The Holy TriniTease",
+        "7:00 PM" : "Exit 182",
+        "8:00 PM" : "Restaurant Ambience w/ DJ Lampshade",
+        "9:00 PM" : "No Scene",
+        "10:00 PM" : "",
+        "11:00 PM" : "Black Kids do Radio Too",
+        "12:00 PM" : "Max and Joe's Organ Emporium and Warehouse"
+      },
+      "Vendredi" : {
+        "5:00 PM" : "Daebak! KGY Cultural Hour",
+        "6:00 PM" : "Thraxface",
+        "7:00 PM" : "The Variety Hour Club",
+        "8:00 PM" : "Calle Ocho",
+        "9:00 PM" : "Ferris Bueller's Night Off",
+        "10:00 PM" : "Notorious DLG",
+        "11:00 PM" : "Hanging with the Changs",
+        "12:00 PM" : ""
+      },
+      "Samedi" : {
+        "5:00 PM" : "At Least We Think We're Funny",
+        "6:00 PM" : "",
+        "7:00 PM" : "KFIC",
+        "8:00 PM" : "",
+        "9:00 PM" : "The Bullpen",
+        "10:00 PM" : "The Etymology of Music",
+        "11:00 PM" : "Library Jams",
+        "12:00 PM" : ""
+      },
+      "Dimanche" : {
+        "5:00 PM" : "",
+        "6:00 PM" : "",
+        "7:00 PM" : "Between a Rachmaninoff and a Hard Place",
+        "8:00 PM" : "Tete-a-tech",
+        "9:00 PM" : "Various Noises",
+        "10:00 PM" : "All-You-Can-Eat-Shrimp Buffet!",
+        "11:00 PM" : "The Mom Cave Show",
+        "12:00 PM" : "Snarky Walrus Time"
+      }
+    }
+  }
+}
